@@ -1,0 +1,7 @@
+[
+    {"name":"Jessore","division":"Khulna","districts":[{"name": "Jessore"},{"name": "Narail"},{"name": "Magura"},{"name": "Jhenaidah"}]},
+    {"name":"Khustia","division":"Khulna","districts":[{"name": "Khustia"},{"name": "Meherpur"},{"name": "Chuadanga"}]},
+    {"name":"Khulna","division":"Khulna","districts":[{"name": "Khulna"},{"name": "Bagerhat"},{"name": "Satkhira"}]},
+    {"name":"Barisal","division":"Barisal","districts":[{"name": "Barisal"},{"name": "Barguna"},{"name": "Pirojpur"},{"name": "Jhalokathi"},{"name": "Patuakhali"}]},
+    {"name":"Bhola","division":"Barisal","districts":[{"name": "Bhola"}]}
+]
